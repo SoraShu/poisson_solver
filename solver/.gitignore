@@ -1,0 +1,5 @@
+# cython build artifacts
+build/
+*.c
+*.so
+*.html

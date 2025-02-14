@@ -1,0 +1,15 @@
+.direnv
+.envrc
+.python-version
+.vscode
+
+*build/
+
+# image files
+*.png
+# cprofile files
+*.prof
+
+*__pycache__/
+
+*.hdf5
